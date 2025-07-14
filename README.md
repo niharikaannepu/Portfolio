@@ -109,7 +109,7 @@
     <section>
       <h2>Education</h2>
       <ul>
-        <li>I have completed my bachelor’s degree in Narayana Engineering College at the stream of Electrical and Electronics Engineering with CGPA 8.5 and my passed out year 2025.</li>
+        <li>I have completed my Bachelor’s Degree in Narayana Engineering College at the stream of Electrical and Electronics Engineering with CGPA 8.5 and my passed out year 2025.</li>
         <li>I have completed my Intermediate in Narayana Junior College at the Stream MPC with CGPA 8.6 in the year 2021</li>
         <li>I have completed my SSC in Sri Chaitanya Techno Curriculam School with CGPA 9.2 in the year 2019</li>
       </ul>
