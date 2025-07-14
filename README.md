@@ -7,9 +7,9 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
   <style>
     :root {
-      --primary-color: #2f2f2f; /* Ash gray text */
-      --secondary-color: #f2f2f2; /* Light ash background */
-      --accent-color: #4a4a4a; /* Dark ash for borders */
+      --primary-color: #1e3a8a; /* Medium Blue */
+      --secondary-color: #ffffff; /* White */
+      --accent-color: #3b82f6; /* Blue Accent */
     }
     body {
       font-family: 'Inter', sans-serif;
@@ -44,7 +44,7 @@
       font-size: 0.95rem;
     }
     .contact-header a {
-      color: #dddddd;
+      color: #c7d2fe;
       text-decoration: none;
     }
     .contact-header a:hover {
@@ -101,9 +101,9 @@
 
   <main>
     <section>
-      <h2>About Me</h2>
+      <h2>Professional Summary</h2>
       <p>
-        Final-year EEE student with a strong passion for Python development. Seeking Python developer or software engineer roles to apply my problem-solving and coding skills.
+        Motivated and detail-oriented B.Tech student in Electrical and Electronics Engineering with strong proficiency in Python programming and web development. Adept at creating efficient backend solutions and developing user-friendly interfaces using modern tools and technologies. Proven ability to adapt quickly, learn independently, and collaborate effectively on real-world projects through internships and personal initiatives. Actively seeking entry-level roles as a Python Developer or Software Engineer to contribute technical expertise and grow in a dynamic development environment.
       </p>
     </section>
     <section>
