@@ -47,7 +47,7 @@
       text-decoration: none;
     }
     .contact-header a:hover {
-      text-decoration: underline;
+      text-decoration: none;
     }
     main {
       max-width: 1000px;
@@ -59,7 +59,7 @@
       border-left: 6px solid var(--accent-color);
       padding: 1.5rem;
       border-radius: 0.5rem;
-      margin-bottom: 2rem;
+      margin-bottom: 0rem;
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
     }
     h2 {
@@ -76,7 +76,7 @@
       text-decoration: none;
     }
     a:hover {
-      text-decoration: underline;
+      text-decoration: none;
     }
     footer {
       background-color: var(--primary-color);
