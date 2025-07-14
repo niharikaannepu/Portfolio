@@ -21,15 +21,16 @@
     header {
       background-color: var(--primary-color);
       color: white;
-      padding: 2rem 1rem;
+      padding: 1.2rem 1rem;
       display: flex;
       flex-direction: column;
       align-items: center;
-      gap: 0.75rem;
+      gap: 0.5rem;
     }
     header h1 {
       font-size: 2.5rem;
       margin: 0;
+      text-decoration: none;
     }
     header p {
       font-size: 1.1rem;
@@ -47,7 +48,7 @@
       text-decoration: none;
     }
     .contact-header a:hover {
-      text-decoration: none;
+      text-decoration: underline;
     }
     main {
       max-width: 1000px;
@@ -59,7 +60,7 @@
       border-left: 6px solid var(--accent-color);
       padding: 1.5rem;
       border-radius: 0.5rem;
-      margin-bottom: 0rem;
+      margin-bottom: 2rem;
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
     }
     h2 {
@@ -76,7 +77,7 @@
       text-decoration: none;
     }
     a:hover {
-      text-decoration: none;
+      text-decoration: underline;
     }
     footer {
       background-color: var(--primary-color);
@@ -89,7 +90,7 @@
 </head>
 <body>
   <header>
-    <h1>Niharika Annepu</h1>
+    <h1 style="text-decoration: none;">Niharika Annepu</h1>
     <p>B.Tech in Electrical and Electronics Engineering | Python Developer</p>
     <div class="contact-header">
       <span>Email: <a href="mailto:niharikaannepu78@gmail.com">niharikaannepu78@gmail.com</a></span>
@@ -102,7 +103,7 @@
     <section>
       <h2>About Me</h2>
       <p>
-        Bachelor's Degree in Electrical and Electronics Engineering with a strong passion for Python development. Seeking Python developer or software engineer roles to apply my problem-solving and coding skills.
+        Final-year EEE student with a strong passion for Python development. Seeking Python developer or software engineer roles to apply my problem-solving and coding skills.
       </p>
     </section>
     <section>
