@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,9 +7,9 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
   <style>
     :root {
-      --primary-color: #1e3a8a; /* Darker Blue */
-      --secondary-color: #e0f2fe; /* Light Blue Background */
-      --accent-color: #2563eb; /* Bright Blue */
+      --primary-color: #1e3a8a; /* Calm Blue */
+      --secondary-color: #f0f9ff; /* Softer Light Blue */
+      --accent-color: #3b82f6; /* Calmer Accent Blue */
     }
     body {
       font-family: 'Inter', sans-serif;
@@ -44,7 +43,7 @@
       font-size: 0.95rem;
     }
     .contact-header a {
-      color: #bfdbfe;
+      color: #dbeafe;
       text-decoration: none;
     }
     .contact-header a:hover {
@@ -103,7 +102,7 @@
     <section>
       <h2>About Me</h2>
       <p>
-        B.Tech in Electrical and Electronics Engineering student with a strong passion for Python development. Seeking Python developer or Software Engineer roles to apply my problem-solving and coding skills.
+        Final-year EEE student with a strong passion for Python development. Seeking Python developer or software engineer roles to apply my problem-solving and coding skills.
       </p>
     </section>
     <section>
@@ -150,6 +149,8 @@
     </section>
   </main>
 
-  
+  <footer>
+    &copy; 2025 Niharika Annepu. All rights reserved.
+  </footer>
 </body>
 </html>
