@@ -150,8 +150,5 @@
     </section>
   </main>
 
-  <footer>
-    &copy; 2025 Niharika Annepu. All rights reserved.
-  </footer>
 </body>
 </html>
