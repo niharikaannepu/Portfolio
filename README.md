@@ -2,14 +2,14 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=0.5" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Niharika Annepu | Python Developer</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
   <style>
     :root {
-      --primary-color: #1e3a8a; /* Calm Blue */
-      --secondary-color: #f0f9ff; /* Softer Light Blue */
-      --accent-color: #3b82f6; /* Calmer Accent Blue */
+      --primary-color: #2f2f2f; /* Ash gray text */
+      --secondary-color: #f2f2f2; /* Light ash background */
+      --accent-color: #4a4a4a; /* Dark ash for borders */
     }
     body {
       font-family: 'Inter', sans-serif;
@@ -43,7 +43,7 @@
       font-size: 0.95rem;
     }
     .contact-header a {
-      color: #dbeafe;
+      color: #dddddd;
       text-decoration: none;
     }
     .contact-header a:hover {
@@ -102,7 +102,7 @@
     <section>
       <h2>About Me</h2>
       <p>
-        Final-year EEE student with a strong passion for Python development. Seeking Python developer or software engineer roles to apply my problem-solving and coding skills.
+        Bachelor's Degree in Electrical and Electronics Engineering with a strong passion for Python development. Seeking Python developer or software engineer roles to apply my problem-solving and coding skills.
       </p>
     </section>
     <section>
